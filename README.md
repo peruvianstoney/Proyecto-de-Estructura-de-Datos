@@ -6,3 +6,5 @@ Un programa basado en listas, pilas y colas referente a un sistema de control m�
 
 edit pro 2.0:
 =>Se mejor처 lo que es prioridad y direcci처n
+edit pro 2.1:
+=> Cambios en la funci처n modificar, imprime listas en atenci처n y finalmente se implemento un nuevo color tanto para el fondo como para las letras cuando se muestre en pantalla en c처digo.
